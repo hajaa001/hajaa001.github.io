@@ -9,7 +9,9 @@ html, body{
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
+    font-size: large;
   }
+
   
   .nav ul{
     margin: 0;
@@ -80,6 +82,10 @@ html, body{
   }
   .section-content{
     margin: 1em; /*top right bottom and left*/
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 30;
+    text-align: left;
   }
   .section-header{
     font-size: 2em;
@@ -96,3 +102,9 @@ html, body{
     margin: 15px;
     
   }
+ .section-text{
+   text-align: right 50em;
+ }
+  
+  
+  
