@@ -117,15 +117,6 @@ html, body{
     border-bottom: 1px solid rgba(255, 255, 255, .8)
  }
 
-
-
-}
-
-html, body{ 
-margin: 0;
-padding: 0;
-}
-
 .Project-welcome-section{
   background-color:rgba(0, 0, 0, 0.2);
   background-image: url(../background.jfif);
@@ -134,6 +125,20 @@ padding: 0;
   padding-bottom: 30px;
   font-size: large;
 }
+ .background{
+  text-align: center;
+  margin: 0;
+  color: coral;
+  font-size: 10em;
+  font-family: papyrus;
+ }
+}
+
+
+
+
+
+
 
 
 
