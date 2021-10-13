@@ -5,7 +5,7 @@ html, body{
   
   .welcome-section{
     background-color:rgba(0, 0, 0, 0.2);
-    background-image: url(../background.jfif);
+    background-image:;
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
