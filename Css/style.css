@@ -3,7 +3,7 @@ html, body{
     padding: 0;
   }
   
-  .main-header{
+  .welcome-section{
     background-color:rgba(0, 0, 0, 0.2);
     background-image: url(../background.jfif);
     background-blend-mode: multiply;
@@ -106,5 +106,37 @@ html, body{
    text-align: right 50em;
  }
   
+  .project{
+    font-size: 8em;
+  }
   
-  
+  .main-nav-project{
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(255, 255, 255, .8)
+ }
+
+
+
+}
+
+html, body{ 
+margin: 0;
+padding: 0;
+}
+
+.Project-welcome-section{
+  background-color:rgba(0, 0, 0, 0.2);
+  background-image: url(../background.jfif);
+  background-blend-mode: multiply;
+  background-size: cover;
+  padding-bottom: 30px;
+  font-size: large;
+}
+
+
+
+
+
+
