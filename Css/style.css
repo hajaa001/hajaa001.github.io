@@ -1,21 +1,18 @@
-html, body{
-    margin: 0;
-    padding: 0;
-  }
-  
-  .welcome-section{
-    background-color:rgba(0, 0, 0, 0.2);
-    background-image:;
+.html,body{
+
+}
+
+ .welcome-section{
+    background-color: rgba(255, 255, 255, .8);
+    background-image: url(images\images.png);
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
     font-size: large;
   }
-
   
   .nav ul{
     margin: 0;
-  
   }
   
   .nav li{
@@ -118,12 +115,12 @@ html, body{
  }
 
 .Project-welcome-section{
-  background-color:rgba(0, 0, 0, 0.2);
-  background-image: url(../background.jfif);
-  background-blend-mode: multiply;
-  background-size: cover;
-  padding-bottom: 30px;
-  font-size: large;
+background-color:rgba(0, 0, 0, 0.2);
+background-image: url(../background.jfif);
+background-blend-mode: multiply;
+background-size: cover;
+padding-bottom: 30px;
+font-size: large;
 }
  .background{
   text-align: center;
@@ -132,7 +129,7 @@ html, body{
   font-size: 10em;
   font-family: papyrus;
  }
-}
+
 
 
 
