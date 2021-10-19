@@ -4,7 +4,8 @@
 
  .welcome-section{
     background-color: rgba(255, 255, 255, .8);
-    background-image: url(images\images.png);
+    display: flex;
+    background: url(../images/change.png);
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
@@ -33,25 +34,37 @@
     border-bottom: 1px solid rgba(255, 255, 255, .8);
   }
   
+  .nav-bar{
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;t
+    }
+    
+    
   
-   .nav :hover{
-     background-color: rgb(248, 122, 3);
-   }
+    .navhover{
+      background-color: rgb(248, 122, 3);
+     
+    }
+
+
+    
+   
   
-  
+   
   .band-logo{
     text-align: center;
     margin: 0;
     color: coral;
     font-size: 3em;
-    font-family: papyrus;
+    font-family: papayrus;
   }
   
   .band-logo-large{
      font-size: 8em;
   }
   
-  .
+  
   
   .main-footer{
     background-color:rgb(252, 63, 16);
@@ -77,6 +90,7 @@
   .footer-nav{
     padding: 0.5em;
   }
+  
   .section-content{
     margin: 1em; /*top right bottom and left*/
     font-size: 30px;
@@ -84,22 +98,24 @@
     font-weight: 30;
     text-align: left;
   }
+  
   .section-header{
     font-size: 2em;
     color: rgb(59, 49, 2);
     font-family: papyrus;
     font-weight: bold;
     text-align: center;
-  }
-  .about-band-image{
+     }
+  
+    .about-band-image{
     float: left;
     height: 200px;
     width: 200px;
     border-radius: 100%;
     margin: 15px;
-    
-  }
- .section-text{
+     }
+ 
+  .section-text{
    text-align: right 50em;
  }
   
@@ -111,12 +127,12 @@
     text-align: center;
     font-size: 1.8em;
     font-weight: bold;
-    border-bottom: 1px solid rgba(255, 255, 255, .8)
- }
+    border-bottom: 1px solid rgba(255, 255, 255, 0.8)
+    }
 
 .Project-welcome-section{
-background-color:rgba(0, 0, 0, 0.2);
-background-image: url(../background.jfif);
+background-color:rgba(55, 15, 15, 0.486);
+background: url(../images/images.png);
 background-blend-mode: multiply;
 background-size: cover;
 padding-bottom: 30px;
