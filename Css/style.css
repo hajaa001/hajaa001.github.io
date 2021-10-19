@@ -11,7 +11,6 @@
     padding-bottom: 5em;
     font-size: large;
   }
-  
   .nav ul{
     margin: 0;
   }
@@ -26,7 +25,6 @@
     text-decoration: none;
     padding: 2.5rem;
   }
-  
   .main-nav{
     text-align: center;
     font-size: 0.8em;
@@ -42,7 +40,7 @@
     
     
   
-    .navhover{
+    .nav-hover{
       background-color: rgb(248, 122, 3);
      
     }
@@ -54,7 +52,6 @@
    
   .band-logo{
     text-align: center;
-    
     margin: 0.1em;
     color: coral;
     font-size: 3em;
