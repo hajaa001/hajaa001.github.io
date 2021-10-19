@@ -8,7 +8,7 @@
     background: url(../images/change.png);
     background-blend-mode: multiply;
     background-size: cover;
-    padding-bottom: 30px;
+    padding-bottom: 5em;
     font-size: large;
   }
   
@@ -29,7 +29,7 @@
   
   .main-nav{
     text-align: center;
-    font-size: 1.8em;
+    font-size: 0.8em;
     font-weight: bold;
     border-bottom: 1px solid rgba(255, 255, 255, .8);
   }
@@ -37,7 +37,7 @@
   .nav-bar{
     text-align: center;
     font-size: 1.8em;
-    font-weight: bold;t
+    font-weight: bold;
     }
     
     
@@ -54,7 +54,8 @@
    
   .band-logo{
     text-align: center;
-    margin: 0;
+    
+    margin: 0.1em;
     color: coral;
     font-size: 3em;
     font-family: papayrus;
