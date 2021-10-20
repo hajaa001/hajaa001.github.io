@@ -1,20 +1,28 @@
 .html,body{
-
+margin: 0;
+padding: 0;
 }
-
+.welcome{
+  background: url(../images/change.png); 
+  background-blend-mode: multiply;
+  background-size: cover; 
+  padding: 100px;
+  }
  .welcome-section{
     background-color: rgba(255, 255, 255, .8);
-    display: flex;
     background: url(../images/change.png);
+    display: flex;
     background-blend-mode: multiply;
     background-size: cover;
-    padding-bottom: 5em;
     font-size: large;
+    padding: auto;
   }
  .nav ul{
     margin: 0;
   }
-  
+  .bar{
+    background-color:rgb(252, 63, 16); 
+  }
   .nav-li{
     display: inline;
   }
@@ -26,18 +34,18 @@
     padding: 0;
   }
   
-  .main-nav{
-    text-align: center;
-    font-size: 0.8em;
+  .nav-main{
+    font-size: 25px;
     font-weight: bold;
     border-bottom: 1px solid rgba(255, 255, 255, .8);
- }
-    .nav-bar{
-    text-align: center;
-    font-size: 1.8em;
-    font-weight: bold;
-    border-bottom: solid rgba(255, 255, 255, .8);
+    display: inline;
+    text-align: start;
+    position: fixed;
+    margin-bottom: 1px;
+    color: coral ;
+    
   }
+    
     
     
   
@@ -68,6 +76,8 @@
   .main-footer{
     background-color:rgb(252, 63, 16);
     padding: 0.25em;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
   }
   
   .container{
@@ -104,7 +114,9 @@
     font-family: papyrus;
     font-weight: bold;
     text-align: center;
-     }
+     margin-top: 30px;
+     padding-top: 10px;
+  }
   
     .about-band-image{
     float: left;
@@ -150,7 +162,12 @@ font-size: large;
 }
 
 
-
+.project-inhold{
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
 
 
 
