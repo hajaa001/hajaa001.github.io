@@ -14,7 +14,7 @@ padding: 0;
     display: flex;
     background-blend-mode: multiply;
     background-size: cover;
-    font-size: large;
+    font-size: 50px;
     padding: auto;
   }
  .nav ul{
@@ -63,12 +63,12 @@ padding: 0;
     text-align: center;
     margin: 0;
     color: coral;
-    font-size: 3em;
+    font-size: 5px;
     font-family: papayrus;
   }
   
   .band-logo-large{
-     font-size: 8em;
+     font-size: 50px;
   }
   
   
@@ -169,7 +169,10 @@ font-size: large;
   font-style: italic;
 }
 
+.welcome{
 
+
+}
 
 
 
