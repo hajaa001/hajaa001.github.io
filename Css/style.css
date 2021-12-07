@@ -75,7 +75,7 @@ padding: 0;
   
   .main-footer{
     background-color:rgb(252, 63, 16);
-    padding: 100px;
+    padding: 50px;
   font-size: large;
   font-family: 'Times New Roman', Times, serif;
   }
@@ -167,6 +167,7 @@ font-size: large;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
+  text-align: center;
 }
 
 .welcome{
