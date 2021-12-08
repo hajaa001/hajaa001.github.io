@@ -63,19 +63,19 @@ padding: 0;
     text-align: center;
     margin: 0;
     color: coral;
-    font-size: 5px;
+    font-size: 1px;
     font-family: papayrus;
   }
   
   .band-logo-large{
-     font-size: 50px;
+     font-size: 100px;
   }
   
   
   
   .main-footer{
     background-color:rgb(252, 63, 16);
-    padding: 50px;
+    padding: 0;
   font-size: large;
   font-family: 'Times New Roman', Times, serif;
   }
@@ -83,7 +83,7 @@ padding: 0;
   .container{
     max-width: 900px;
     margin: 0 auto;
-    padding:100px;
+    padding: 50px;;
   }
   
   .container main-foot-container{
@@ -98,6 +98,7 @@ padding: 0;
   
   .footer-nav{
     padding: 0;
+
   }
   
   .section-content{
@@ -143,13 +144,18 @@ padding: 0;
 
 .Project-welcome-section{
 background-color:rgba(55, 15, 15, 0.486);
-background: url(../images/images.png);
+background: url(images\tec.png);
 background-blend-mode: multiply;
 background-size: cover;
 padding-bottom: 30px;
 font-size: large;
 }
  .background{
+  background-color:rgba(55, 15, 15, 0.486);
+background: url(images\tec.png);
+background-blend-mode: multiply;
+background-size: cover;
+padding-bottom: 30px;
   text-align: center;
   margin: 0;
   color: coral;
@@ -157,9 +163,11 @@ font-size: large;
   font-family: papyrus;
  }
 
-.section-content-container{
+.section-content-container{ 
   font-size: large;
 }
+
+
 
 
 .project-inhold{
